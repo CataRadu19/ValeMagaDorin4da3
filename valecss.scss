@@ -9,7 +9,11 @@ body {
   height: 100%;
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background:	#ff914d;
+  background: url("fruits.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 * {
